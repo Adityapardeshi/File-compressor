@@ -62,7 +62,9 @@ void huffman::createMinHeap() {
     char id;
     inFile.open(inFileName, ios::in);
     inFile.get(id);
-    //Incrementing frequency of characters that appear in the input file
+    
+    //Incrementing frequency of characters that appear in the input file 
+
     while (!inFile.eof()) {
         arr[id]->freq++;
         inFile.get(id);
