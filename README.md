@@ -29,12 +29,15 @@ Demo:
 <img width="998" height="228" alt="image" src="https://github.com/user-attachments/assets/851f7e7e-bd21-4736-9d2c-556eb60763a2" />
 
 Before compression:
+
 <img width="576" height="639" alt="image" src="https://github.com/user-attachments/assets/237230c9-b329-4ed5-96be-4c9ab099cc42" />
 
 Compressed File:
+
 <img width="579" height="665" alt="image" src="https://github.com/user-attachments/assets/b742e24d-a4cb-4474-b3e0-1ffd3bbe6a1d" />
 
 Decompressed File:
+
 <img width="562" height="640" alt="image" src="https://github.com/user-attachments/assets/e624d1a9-0698-478e-9418-05d37ae88d92" />
 
 
